@@ -11,7 +11,7 @@ namespace pr45savichev.Controllers
     public class TasksController : Controller
     {
         /// <summary>
-        /// Получение списка задач 
+        /// Получение списка задач
         /// </summary>
         /// <remarks>Данный метод получает список задач, находящийся в базе данных</remarks>
         /// <response code="200">Список успешно получен</response>
